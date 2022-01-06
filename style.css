@@ -25,7 +25,6 @@ body{
     margin-left: 17rem;  
     margin-top: 0.6rem;
     cursor: pointer;
-    position: absolute;
 }
 
 .rotate-icon {
@@ -861,6 +860,7 @@ footer p {
 
    .containertopo {
       width: 100%;
+      position: absolute;
    }
 
    .containertopo img {
@@ -1061,6 +1061,10 @@ footer p {
          
       }
    
+      .containertopo {
+         position: fixed;
+      }
+
       .contbox {
          margin-left: 21.2rem;
       }
@@ -1151,6 +1155,10 @@ footer p {
          max-width: 425px;
          position: relative;
          margin-left: 0;
+      }
+
+      .containertopo {
+         position: fixed;
       }
 
       .containertopo img {
@@ -1316,6 +1324,7 @@ footer p {
 
       .containertopo {
          width: 375px;
+         position: fixed;
       }
 
       .containertopo img {
