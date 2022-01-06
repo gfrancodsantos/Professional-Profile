@@ -1,1 +1,1 @@
-#iniciando meu primeiro porfolio profissional.
+#iniciando meu primeiro portfolio profissional.

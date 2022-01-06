@@ -12,9 +12,10 @@ body{
 }
 
 .containertopo {
-   position: absolute;
-    width: 100%;
-    height: auto;
+   position: fixed;
+   width: 100%;
+   height: auto;
+   z-index: 1000;
 }
 
 .containertopo img {
@@ -124,7 +125,7 @@ h2 {
    font-style: normal;
    width: 618px;
    margin-bottom: 15rem;
-
+   position: relative;
 }
 
 .section1h1 {
@@ -162,7 +163,7 @@ h2 {
     font-size: 0,9375rem; 
     font-family: Thabit;
     font-style: normal;
-   padding-top: 2rem;
+    padding-top: 2rem;
  }
 
  .langs {
@@ -1161,7 +1162,7 @@ footer p {
       }
 
       #btn-mobile {
-         margin-left: 20rem;
+         margin-left: 22.3rem;
       }
 
       .hero {
@@ -1210,6 +1211,10 @@ footer p {
          margin-top: 18rem;
       }
 
+      .slang p {
+         width: 21rem;
+      }
+
       .containerborder {
          margin-right: -20rem;
          margin-top: -21rem;
@@ -1229,7 +1234,7 @@ footer p {
       .work img {
          width: 200px;
          height: 200px;
-         margin-left: 6.5rem;
+         margin-left: 5.5rem;
          margin-top: -3rem;
          border-end-start-radius: 80px;
          border-top-right-radius: 60px;
@@ -1317,7 +1322,7 @@ footer p {
       }
 
       #btn-mobile {
-         margin-left: 17rem;
+         margin-left: 18rem;
       }
 
       .hero {
