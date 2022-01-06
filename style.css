@@ -1158,7 +1158,7 @@ footer p {
       }
 
       .containertopo {
-         position: fixed;
+         position: absolute;
       }
 
       .containertopo img {
@@ -1324,7 +1324,7 @@ footer p {
 
       .containertopo {
          width: 375px;
-         position: fixed;
+         position: absolute;
       }
 
       .containertopo img {
