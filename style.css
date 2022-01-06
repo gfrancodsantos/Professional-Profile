@@ -12,7 +12,7 @@ body{
 }
 
 .containertopo {
-   position: fixed;
+   position: absolute;
    width: 100%;
    height: auto;
    z-index: 1000;
@@ -25,6 +25,7 @@ body{
     margin-left: 17rem;  
     margin-top: 0.6rem;
     cursor: pointer;
+    position: absolute;
 }
 
 .rotate-icon {
