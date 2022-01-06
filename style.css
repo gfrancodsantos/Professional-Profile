@@ -12,7 +12,7 @@ body{
 }
 
 .containertopo {
-   position: absolute;
+   position: fixed;
    width: 100%;
    height: auto;
    z-index: 1000;
@@ -289,7 +289,7 @@ h2 {
  #container-b3 {
     width: 10px;
     height: 10px;
-    background: #ffffff;  
+    background: #fff500;  
     display: inline-block;
  }
 
@@ -317,14 +317,14 @@ h2 {
  #container-a4 {
     width: 10px;
     height: 10px;
-    background: #ffffff;  
+    background: #fff500;  
     display: inline-block;
  }
 
  #container-b4 {
     width: 10px;
     height: 10px;
-    background: #ffffff;  
+    background: #fff500;  
     display: inline-block;
  }
 
@@ -352,14 +352,14 @@ h2 {
  #container-a5 {
     width: 10px;
     height: 10px;
-    background: #ffffff;
+    background: #fff500;
     display: inline-block;
  }
 
  #container-b5 {
     width: 10px;
     height: 10px;
-    background: #ffffff;   
+    background: #fff500;   
     display: inline-block;
  }
 
