@@ -59,7 +59,7 @@ body{
     color: rgb(120, 127, 156);
     font-family:'Lucida Sans';   
     text-decoration: none;
-    padding-right: 4rem;
+    margin-left: 5rem;
 }
 
 .menu li a:hover {
@@ -177,209 +177,22 @@ h2 {
  }
 
 
-#containerlangs1 {
+#containerlangs1, #containerlangs2, #containerlangs3, #containerlangs4, #containerlangs5, #containerlangs6 {
     display: inline-block;
     margin-right: 1rem;
 }
 
-#containerlangs2 {
-    display: inline-block;
-    margin-right: 1rem;
-}
-
-#containerlangs3 {
-    display: inline-block;
-    margin-right: 1rem;
-}
-
-#containerlangs4 {
-    display: inline-block;
-    margin-right: 1rem;
-}
-
-#containerlangs5 {
-    display: inline-block;
-    margin-right: 1rem;
-}
-
-#containerlangs6 {
-    display: inline-block;
-    margin-right: 1rem;
-}
-
- #container-a1  {
+ #container-a1, #container-b1, #container-c1, #container-d1, #container-e1, #container-a2, #container-b2, #container-c2, #container-d2, #container-e2, #container-a3, #container-b3, #container-a4, #container-b4, #container-a5, #container-b5{
     width: 10px;
     height: 10px;
     background: #fff500;
     display: inline-block;
  }
 
- #container-b1 {
-    width: 10px;
-    height: 10px;
-    background: #fff500;
-    display: inline-block;
- }
- 
- #container-c1 {
-    width: 10px;
-    height: 10px;
-    background: #fff500;
-    display: inline-block;
- }
- 
- #container-d1 {
-    width: 10px;
-    height: 10px;
-    background: #fff500;
-    display: inline-block;
- }
-
- #container-e1 {
-    width: 10px;
-    height: 10px;
-    background: #fff500;
-    display: inline-block;
- }
-
- #container-a2 {
-    width: 10px;
-    height: 10px;
-    background: #fff500;  
-    display: inline-block;
- }
-
- #container-b2 {
-    width: 10px;
-    height: 10px;
-    background: #fff500;  
-    display: inline-block;
- }
-
- #container-c2 {
-    width: 10px;
-    height: 10px;
-    background: #fff500; 
-    display: inline-block;
- }
-
- #container-d2 {
-    width: 10px;
-    height: 10px;
-    background: #fff500; 
-    display: inline-block;
- }
-
- #container-e2 {
-    width: 10px;
-    height: 10px;
-    background: #fff500; 
-    display: inline-block;
- }
-
-
- #container-a3 {
-    width: 10px;
-    height: 10px;
-    background: #fff500;
-    display: inline-block;
- }
-
- #container-b3 {
-    width: 10px;
-    height: 10px;
-    background: #fff500;  
-    display: inline-block;
- }
-
- #container-c3 {
+ #container-c3, #container-d3, #container-e3, #container-c4, #container-d4, #container-e4, #container-c5, #container-d5, #container-e5{
     width: 10px;
     height: 10px;
     background: #ffffff;  
-    display: inline-block;
- }
-
- #container-d3 {
-    width: 10px;
-    height: 10px;
-    background: #ffffff; 
-    display: inline-block;
- }
-
- #container-e3 {
-    width: 10px;
-    height: 10px;
-    background: #ffffff; 
-    display: inline-block;
- }
-
- #container-a4 {
-    width: 10px;
-    height: 10px;
-    background: #fff500;  
-    display: inline-block;
- }
-
- #container-b4 {
-    width: 10px;
-    height: 10px;
-    background: #fff500;  
-    display: inline-block;
- }
-
- #container-c4 {
-    width: 10px;
-    height: 10px;
-    background: #ffffff; 
-    display: inline-block;
- }
-
- #container-d4 {
-    width: 10px;
-    height: 10px;
-    background: #ffffff; 
-    display: inline-block;
- }
-
- #container-e4 {
-    width: 10px;
-    height: 10px;
-    background: #ffffff; 
-    display: inline-block;
- }
-
- #container-a5 {
-    width: 10px;
-    height: 10px;
-    background: #fff500;
-    display: inline-block;
- }
-
- #container-b5 {
-    width: 10px;
-    height: 10px;
-    background: #fff500;   
-    display: inline-block;
- }
-
- #container-c5 {
-    width: 10px;
-    height: 10px;
-    background: #ffffff;   
-    display: inline-block;
- }
-
- #container-d5 {
-    width: 10px;
-    height: 10px;
-    background: #ffffff;   
-    display: inline-block;
- }
-
- #container-e5 {
-    width: 10px;
-    height: 10px;
-    background: #ffffff;   
     display: inline-block;
  }
 
@@ -390,7 +203,6 @@ h2 {
     line-height: 2rem;
  }
  
-
  .container-qq {
     margin-left: 10rem;
     margin-top: 50px;
@@ -569,7 +381,6 @@ footer p {
    margin-right: 110rem;
    margin-top: 1rem;
 }
-
 
 @media (max-width: 2560px) {
 
