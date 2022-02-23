@@ -337,6 +337,7 @@ footer {
    *{
       margin: 0;
       padding: 0;
+      max-width: 2560px;
    }
 
    html, body {
@@ -371,6 +372,7 @@ footer {
    *{
       margin: 0;
       padding: 0;
+      max-width: 1920px;
    }
 
    html, body {
@@ -402,6 +404,7 @@ footer {
    *{
       margin: 0;
       padding: 0;
+      max-width: 1900px;
    }
 
    html, body {
@@ -432,6 +435,7 @@ footer {
    *{
       margin: 0;
       padding: 0;
+      max-width: 1680px;
    }
    html, body {
       overflow-x: hidden;
@@ -460,6 +464,7 @@ footer {
    *{
       margin: 0;
       padding: 0;
+      max-width: 1600px;
    }
    html, body {
       overflow-x: hidden;
@@ -488,6 +493,7 @@ footer {
    *{
       margin: 0;
       padding: 0;
+      max-width: 1440px;
    }
    html, body {
       overflow-x: hidden;
@@ -530,6 +536,7 @@ footer {
    *{
       margin: 0;
       padding: 0;
+      max-width: 1280px;
    }
    html, body {
       overflow-x: hidden;
@@ -577,6 +584,7 @@ footer {
    *{
       margin: 0;
       padding: 0;
+      max-width: 1024px;
    }
    html, body {
       overflow-x: hidden;
@@ -628,6 +636,7 @@ footer {
    *{
       margin: 0;
       padding: 0;
+      max-width: 800px;
    }
    html, body {
       overflow-x: hidden;
@@ -816,6 +825,7 @@ footer {
    *{
       margin: 0;
       padding: 0;
+      max-width: 768px;
    }
    html, body {
       overflow-x: hidden;
@@ -1018,6 +1028,7 @@ footer {
       *{
          margin: 0;
          padding: 0;
+         max-width: 720px;
       }
       html, body {
          overflow-x: hidden;
@@ -1219,6 +1230,7 @@ footer {
       *{
          margin: 0;
          padding: 0;
+         max-width: 600px;
       }
       html, body {
          overflow-x: hidden;
@@ -1447,6 +1459,7 @@ footer {
       *{
          margin: 0;
          padding: 0;
+         max-width: 480px;
       }
       html, body {
          overflow-x: hidden;
@@ -1678,6 +1691,7 @@ footer {
       *{
          margin: 0;
          padding: 0;
+         max-width: 425px;
       }
 
       html, body {
@@ -1911,6 +1925,7 @@ footer {
       *{
          margin: 0;
          padding: 0;
+         max-width: 393px;
       }
       html, body {
          overflow-x: hidden;
@@ -2143,6 +2158,7 @@ footer {
       *{
          margin: 0;
          padding: 0;
+         max-width: 375px;
       }
       html, body {
          overflow-x: hidden;
@@ -2374,6 +2390,7 @@ footer {
       *{
          margin: 0;
          padding: 0;
+         max-width: 360px;
       }
 
       html, body {
