@@ -1023,6 +1023,11 @@ footer {
    }
 }
 
+@media (max-width: 768px){
+   html, body {
+      overflow-x: hidden;
+  }
+}
    @media (max-width: 720px) {
 
       *{
@@ -1689,8 +1694,6 @@ footer {
    @media (max-width: 425px) {
 
       *{
-         margin: 0;
-         padding: 0;
          max-width: 425px;
       }
 
@@ -1920,13 +1923,24 @@ footer {
       }
    }
 
+   @media (max-width: 414px){
+      html, body {
+         overflow-x: hidden;
+     }
+   }
+
+   @media (max-width: 412px){
+      html, body {
+         overflow-x: hidden;
+     }
+   }
+
    @media (max-width: 393px) {
 
       *{
-         margin: 0;
-         padding: 0;
          max-width: 393px;
       }
+
       html, body {
          overflow-x: hidden;
      }
@@ -2156,8 +2170,6 @@ footer {
    @media (max-width: 375px) {
 
       *{
-         margin: 0;
-         padding: 0;
          max-width: 375px;
       }
       html, body {
@@ -2388,8 +2400,6 @@ footer {
 
    @media (max-width: 360px) {
       *{
-         margin: 0;
-         padding: 0;
          max-width: 360px;
       }
 
@@ -2618,4 +2628,9 @@ footer {
          height: 5rem;
       }
    }
+
+   @media (max-width: 320px){
+   html, body {
+      overflow-x: hidden;
+  }
    
