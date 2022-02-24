@@ -1687,8 +1687,6 @@ footer {
       *{
          margin: 0;
          padding: 0;
-         overflow-x: hidden;
-
       }
 
       .menu ul {
@@ -1719,10 +1717,8 @@ footer {
      }
    
      .containerwb {
-      position: absolute;
-      margin-left: 260px;
+      margin-left: 265px;
       margin-top: 11rem;
-      display: flex;
     }
    
     .bg-port {
@@ -1749,7 +1745,7 @@ footer {
          width: 5rem;
          justify-content: center;
          align-items: center;
-         margin-top: -2.5rem;   
+         margin-top: 1rem;   
          z-index: 10;
          color: white;
       }
@@ -1787,8 +1783,8 @@ footer {
    
       #nav.active #hamburger {
          border-top-color: transparent;
-         margin-right: 1rem;
-         margin-top: 10px;
+         margin-right: 27rem;
+         margin-top: 8px;
       }
    
       #nav.active #hamburger::before {
@@ -1839,7 +1835,7 @@ footer {
       .work {
          grid-template-columns: repeat(1, 200px);
          margin-top: -2rem;
-         margin-left: -70px;
+         margin-left: -80px;
       }
    
       .menu ul {
@@ -1866,7 +1862,7 @@ footer {
       #menu li a {
          font-size: 1.1rem;
          display: flex; 
-         margin-left: 7rem;
+         margin-left: 6rem;
          align-items: center;
          justify-content: center;
          width: 10rem;
@@ -1914,6 +1910,12 @@ footer {
       *{
          padding: 0;
          margin: 0;
+      }
+
+      .work {
+         grid-template-columns: repeat(1, 200px);
+         margin-top: -2rem;
+         margin-left: -85px;
       }
 
       html, body {
@@ -2082,6 +2084,7 @@ footer {
       .work {
          grid-template-columns: repeat(1, 200px);
          margin-top: -2rem;
+         margin-left: -55px;
       }
    
       .menu {
