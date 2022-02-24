@@ -374,7 +374,6 @@ footer {
    *{
       margin: 0;
       padding: 0;
-      max-width: 1920px;
    }
 
    html, body {
@@ -466,7 +465,6 @@ footer {
    *{
       margin: 0;
       padding: 0;
-      max-width: 1600px;
    }
    html, body {
       overflow-x: hidden;
@@ -1024,12 +1022,7 @@ footer {
       margin-top: 1rem;
    }
 }
-
-@media (max-width: 768px){
-   html, body {
-      overflow-x: hidden;
-  }
-}
+git add 
    @media (max-width: 720px) {
 
       *{
@@ -1930,7 +1923,7 @@ footer {
          padding: 0;
          margin: 0;
       }
-      
+
       html, body {
          overflow-x: hidden;
      }
@@ -2640,8 +2633,6 @@ footer {
       * {
          padding: 0;
          margin: 0;
-         overflow-x: hidden;
-
       }
 
       html, body {
@@ -2658,8 +2649,8 @@ footer {
    
      #containerff img {
       margin-top: -12rem;
-      width: 88px;
-      height: 178px;
+      width: 68px;
+      height: 148px;
       border-radius: 7px;   
       position: relative;
       cursor: pointer;
@@ -2670,14 +2661,14 @@ footer {
      }
 
      .containertopo p {
-      font-size: 0.6rem;
+      font-size: 0.45rem;
       margin-left: 2rem;
      }
    
      .containerwb {
       position: absolute;
-      margin-left: 240px;
-      margin-top: 12rem;
+      margin-left: 220px;
+      margin-top: 11rem;
       display: flex;
     }
    
@@ -2701,7 +2692,7 @@ footer {
       #btn-mobile {
          position: absolute;
          display: block;
-         margin-left: 17rem;
+         margin-left: 14rem;
          width: 5rem;
          justify-content: center;
          align-items: center;
@@ -2743,7 +2734,7 @@ footer {
    
       #nav.active #hamburger {
          border-top-color: transparent;
-         margin-right: 24rem;
+         margin-right: 21rem;
       }
    
       #nav.active #hamburger::before {
@@ -2789,14 +2780,11 @@ footer {
          font-size: 0.9rem;
          margin-top: 6rem;
       }
-   
-      .hero {
-         overflow-x: hidden;
-      }
 
       .work {
-         grid-template-columns: repeat(1, 200px);
+         grid-template-columns: repeat(1, 5px);
          margin-top: -2rem;
+         margin-left: -170px;
       }
    
       .menu {
@@ -2811,7 +2799,7 @@ footer {
       #menu {
          display: none;
          position: absolute;
-         width: 85%;
+         width: 95%;
          height: 100vh;
          top: 5rem;
          right: 0px;    
@@ -2828,7 +2816,7 @@ footer {
       #menu li a {
          font-size: 1.1rem;
          display: flex; 
-         margin-left: 5.5rem;
+         margin-left: 5rem;
          align-items: center;
          justify-content: center;
          width: 10rem;
