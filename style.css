@@ -2084,7 +2084,7 @@ footer {
       .work {
          grid-template-columns: repeat(1, 200px);
          margin-top: -2rem;
-         margin-left: -55px;
+         margin-left: -50px;
       }
    
       .menu {
